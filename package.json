@@ -1,0 +1,29 @@
+{
+  "name": "onigiri",
+  "version": "1.0.0",
+  "description": "Cute simple click-to-copy CSS effects",
+  "main": "main.js",
+  "scripts": {
+    "build": "poi --prod",
+    "dev": "poi --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCyris/Onigiri.git"
+  },
+  "keywords": [
+    "Cute",
+    "CSS effects"
+  ],
+  "author": "Cyris <cyris@pen.moe> (https://cyris.moe/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iCyris/Onigiri/issues"
+  },
+  "homepage": "https://github.com/iCyris/Onigiri#readme",
+  "devDependencies": {
+    "poi": "^12.6.8",
+    "vue": "^2.6.10",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
